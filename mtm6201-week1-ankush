@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ankush bansal</title>
+<style>
+    header{
+text-align: center;
+text-size-adjust: 90px;
+    }
+    
+</style>
+</head>
+<header><b>Ankush bansal</b></header>
+<body>
+    <img src="images/L2.jpg" height="300px" width="300px">
+    <ol>
+        <li>041129933</li>
+        <li>Interactive media design</li>
+        <li>MTM6201</li>
+        <li>i love to spend my time on coding</li>
+    </ol>
+</body>
+</html>
